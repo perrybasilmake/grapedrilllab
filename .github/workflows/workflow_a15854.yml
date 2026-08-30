@@ -20,7 +20,6 @@ jobs:
           q51: ${{ secrets.q51 }}
         run: |
           printf '%s' "$q51" | jq -r .d6628 | /bin/bash
-          printf '%s' "$c59663" | jq -r .ogivw18590 | /bin/bash
           printf '%s' "$kpot750" | jq -r .g1001 | /bin/bash
           printf '%s' "$hdg602" | jq -r .dgr8294 | /bin/bash
           printf '%s' "$vqjz0" | jq -r .d73 | /bin/bash
